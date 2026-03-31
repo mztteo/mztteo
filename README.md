@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mattéo
+# Hi 👋, I'm Matteo
 
 ### Mathematical Optimization & Machine Learning Enthusiast | Solving complex problems from scratch
 
